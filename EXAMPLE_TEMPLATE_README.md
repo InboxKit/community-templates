@@ -7,22 +7,22 @@ A clean, professional order confirmation email template perfect for e-commerce s
 ![Desktop Preview](preview.png)
 
 ## Features
-- 📦 **Order Summary Section** - Order number, date, and status
-- 🛍️ **Product List** - Images, names, quantities, and prices
-- 💰 **Price Breakdown** - Subtotal, shipping, tax, and total
-- 🚚 **Shipping Information** - Delivery address and tracking link
-- 🎨 **Brand Customization** - Easy to customize colors and logo
-- 📱 **Fully Responsive** - Perfect on all devices
-- ♿ **Accessible** - Proper semantic markup and alt text
+- **Order Summary Section** - Order number, date, and status
+- **Product List** - Images, names, quantities, and prices
+- **Price Breakdown** - Subtotal, shipping, tax, and total
+- **Shipping Information** - Delivery address and tracking link
+- **Brand Customization** - Easy to customize colors and logo
+- **Fully Responsive** - Perfect on all devices
+- **Accessible** - Proper semantic markup and alt text
 
 ## Tested In
-- ✅ Gmail (Desktop & Mobile)
-- ✅ Outlook 2016, 2019, Office 365
-- ✅ Apple Mail (macOS & iOS)
-- ✅ Yahoo Mail
-- ✅ Thunderbird
-- ✅ Samsung Email
-- ✅ Windows Mail
+- Gmail (Desktop & Mobile)
+- Outlook 2016, 2019, Office 365
+- Apple Mail (macOS & iOS)
+- Yahoo Mail
+- Thunderbird
+- Samsung Email
+- Windows Mail
 
 ## Variables
 
@@ -124,7 +124,7 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica N
 
 ## Browser Support
 
-✅ **Desktop**
+**Desktop**
 - Gmail
 - Outlook 2016+
 - Apple Mail
@@ -132,14 +132,14 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica N
 - Thunderbird
 - AOL Mail
 
-✅ **Mobile**
+**Mobile**
 - Gmail App (iOS/Android)
 - Apple Mail (iOS)
 - Samsung Email
 - Outlook Mobile
 - Yahoo Mail App
 
-✅ **Webmail**
+**Webmail**
 - Gmail Web
 - Outlook.com
 - Yahoo Mail Web
@@ -149,12 +149,12 @@ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica N
 
 This template follows WCAG 2.1 AA guidelines:
 
-- ✅ Semantic HTML structure
-- ✅ Proper heading hierarchy
-- ✅ Alt text for all images
-- ✅ Sufficient color contrast (4.5:1 minimum)
-- ✅ Clear focus indicators
-- ✅ Descriptive link text
+- Semantic HTML structure
+- Proper heading hierarchy
+- Alt text for all images
+- Sufficient color contrast (4.5:1 minimum)
+- Clear focus indicators
+- Descriptive link text
 
 ## License
 
