@@ -1,6 +1,6 @@
 # GitHub Repository Setup Instructions
 
-## 📁 Files Created
+## Files Created
 
 All files for your GitHub repository are in `/Users/roberto/Desktop/MAILER/github-repo-files/`
 
@@ -21,7 +21,7 @@ inboxkit/community-templates/
 └── EXAMPLE_TEMPLATE_README.md       # Example for contributors
 ```
 
-## 🚀 Quick Setup Steps
+## Quick Setup Steps
 
 ### 1. Create GitHub Repository
 
@@ -66,10 +66,10 @@ git push -u origin main
 Go to your repository settings on GitHub:
 
 **General Settings:**
-- ✅ Enable Issues
-- ✅ Enable Discussions
-- ✅ Enable Pull Requests
-- ✅ Add topics: `email`, `templates`, `email-templates`, `html-email`, `open-source`
+- Enable Issues
+- Enable Discussions
+- Enable Pull Requests
+- Add topics: `email`, `templates`, `email-templates`, `html-email`, `open-source`
 
 **Branch Protection (recommended):**
 - Protect `main` branch
@@ -102,7 +102,7 @@ cd welcome-email
 # Add template.html, preview.png, and README.md
 ```
 
-## 📋 Managing Submissions
+## Managing Submissions
 
 ### Review Process
 
@@ -131,7 +131,7 @@ jobs:
           html-validate templates/**/*.html
 ```
 
-## 🎯 Next Steps
+## Next Steps
 
 ### Week 1: Setup
 - [ ] Create GitHub repository
@@ -157,14 +157,14 @@ jobs:
 ## 📊 Success Metrics
 
 Track these to measure success:
-- ⭐ GitHub stars
-- 🍴 Forks
-- 📤 Pull requests submitted
-- ✅ Templates merged
-- 👥 Unique contributors
-- 📈 Repository traffic
+- GitHub stars
+- Forks
+- Pull requests submitted
+- Templates merged
+- Unique contributors
+- Repository traffic
 
-## 🤝 Community Building
+## Community Building
 
 **Engage Contributors:**
 - Thank them in PR comments
@@ -180,10 +180,7 @@ Track these to measure success:
 - Dev.to / Medium article
 - YouTube video tutorial
 
-## 💡 Marketing Ideas
-
-**Social Proof:**
-> "🎉 100+ developers have contributed templates and received free lifetime InboxKit access!"
+## Marketing Ideas
 
 **Showcase:**
 > "Template of the Week" featuring the best submissions
@@ -212,7 +209,7 @@ Track these to measure success:
 
 **For accepted contributions:**
 ```
-Subject: 🎉 Your template was accepted! Here's your lifetime access
+Subject: Your template was accepted! Here's your lifetime access
 
 Hi [Name],
 
@@ -227,7 +224,7 @@ Best,
 The InboxKit Team
 ```
 
-## ❓ FAQ
+## FAQ
 
 **Q: Do I need to manually send access codes?**
 A: Initially yes, but you can automate this with GitHub Actions later.
@@ -241,7 +238,7 @@ A: Refer to your Code of Conduct and maintain professional, respectful communica
 **Q: Should I accept similar templates?**
 A: Yes, if they offer different design approaches or use cases. Variety is good!
 
-## 🎉 You're Ready!
+## You're Ready!
 
 Everything is set up. Now:
 1. Create the GitHub repository
@@ -253,6 +250,6 @@ Everything is set up. Now:
 ---
 
 **Files Location:** `/Users/roberto/Desktop/MAILER/github-repo-files/`
-**Banner Updated:** ✅ Links to GitHub with icon
-**Email Fallback:** ✅ Available for non-GitHub users
+**Banner Updated:** Links to GitHub with icon
+**Email Fallback:** Available for non-GitHub users
 
