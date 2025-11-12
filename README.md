@@ -136,7 +136,7 @@ All templates should be tested in:
 - Optimize file sizes
 - Provide @2x versions for retina
 
-## 📖 Resources
+## Resources
 
 ### Email Development
 - [Email Client CSS Support](https://www.caniemail.com/)
