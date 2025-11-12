@@ -6,28 +6,28 @@ Welcome to the InboxKit Community Templates repository! This is an open-source c
 
 Submit a template and get **50% off InboxKit lifetime access** when your contribution is accepted, including:
 
-- ✅ Access to all 100+ premium templates
-- ✅ AI-powered customization assistant  
-- ✅ All future templates and updates
-- ✅ Priority support
+- Access to all 100+ premium templates
+- AI-powered customization assistant  
+- All future templates and updates
+- Priority support
 
-## 📚 Template Library
+## Template Library
 
 Browse our growing collection of community-contributed email templates:
 
-### 📧 Transactional
+### Transactional
 Professional templates for transactional emails like receipts, confirmations, password resets, and notifications.
 
-### 📢 Marketing  
+### Marketing  
 Eye-catching templates for promotional campaigns, product launches, and marketing announcements.
 
-### 📰 Newsletter
+### Newsletter
 Clean, readable templates for newsletters, content digests, and regular updates.
 
-### 🛒 E-commerce
+### E-commerce
 Conversion-focused templates for abandoned carts, order confirmations, shipping updates, and more.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Using Templates
 
@@ -42,12 +42,12 @@ Conversion-focused templates for abandoned carts, order confirmations, shipping 
 
 **Want to contribute? Here's how:**
 
-1. ⭐ Star this repository
-2. 🍴 Fork the repository
-3. 📝 Read the [Contributing Guidelines](CONTRIBUTING.md)
-4. ➕ Add your template in the appropriate category
-5. 📤 Submit a Pull Request
-6. 🎉 Get free lifetime InboxKit access when approved!
+1. Star this repository
+2. Fork the repository
+3. Read the [Contributing Guidelines](CONTRIBUTING.md)
+4. Add your template in the appropriate category
+5. Submit a Pull Request
+6. Get free lifetime InboxKit access when approved!
 
 [**→ Read Full Contributing Guide**](CONTRIBUTING.md)
 
@@ -55,9 +55,9 @@ Conversion-focused templates for abandoned carts, order confirmations, shipping 
 
 Your template must include:
 
-- ✅ **`template.html`** - Clean, responsive email template
-- ✅ **`preview.png`** - Screenshot of the rendered template  
-- ✅ **`README.md`** - Documentation and usage instructions
+- **`template.html`** - Clean, responsive email template
+- **`preview.png`** - Screenshot of the rendered template  
+- **`README.md`** - Documentation and usage instructions
 
 **Quality Standards:**
 - Mobile-responsive design
@@ -66,7 +66,7 @@ Your template must include:
 - Inline CSS (email best practices)
 - Accessible markup
 
-## 🎨 Template Structure
+## Template Structure
 
 ```
 templates/
@@ -84,7 +84,7 @@ templates/
 └── ecommerce/
 ```
 
-## 🧪 Testing
+## Testing
 
 All templates should be tested in:
 
@@ -94,12 +94,12 @@ All templates should be tested in:
 - Yahoo Mail
 - Thunderbird
 
-**Recommended Testing Tools:**
+** Recommended Testing Tools:**
 - [Litmus](https://litmus.com/)
 - [Email on Acid](https://www.emailonacid.com/)
 - [Mailtrap](https://mailtrap.io/)
 
-## 💡 Best Practices
+## Best Practices
 
 ### HTML Structure
 ```html
@@ -154,29 +154,29 @@ All templates should be tested in:
 - [HTML Email Check](https://www.htmlemailcheck.com/) - Validation
 - [PutsMail](https://putsmail.com/) - Test emails
 
-## 🤝 Community
+## Community
 
-- 💬 [Discussions](https://github.com/inboxkit/community-templates/discussions)
-- 🐛 [Report Issues](https://github.com/inboxkit/community-templates/issues)
-- 📧 [Email Support](mailto:support@inboxkit.com)
-- 🌐 [InboxKit Website](https://inboxkit.com)
+- [Discussions](https://github.com/inboxkit/community-templates/discussions)
+- [Report Issues](https://github.com/inboxkit/community-templates/issues)
+- [Email Support](mailto:support@inboxkit.com)
+- [InboxKit Website](https://inboxkit.com)
 
-## 📄 License
+## License
 
 All templates in this repository are licensed under the [MIT License](LICENSE).
 
 You're free to:
-- ✅ Use templates in commercial projects
-- ✅ Modify and adapt templates
-- ✅ Use in client projects
-- ✅ Include in your products
+- Use templates in commercial projects
+- Modify and adapt templates
+- Use in client projects
+- Include in your products
 
 You cannot:
-- ❌ Resell templates as-is
-- ❌ Create competing template libraries
-- ❌ Remove author attribution
+- Resell templates as-is
+- Create competing template libraries
+- Remove author attribution
 
-## 🙏 Contributors
+## Contributors
 
 Thank you to all our amazing contributors! View the [Contributors Page](https://github.com/inboxkit/community-templates/graphs/contributors) to see everyone who has helped grow this library.
 
@@ -184,7 +184,7 @@ Thank you to all our amazing contributors! View the [Contributors Page](https://
 
 <!-- This will be auto-populated -->
 
-## 📊 Statistics
+## Statistics
 
 ![GitHub Stars](https://img.shields.io/github/stars/inboxkit/community-templates?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/inboxkit/community-templates?style=social)
