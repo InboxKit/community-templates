@@ -191,7 +191,7 @@ Track these to measure success:
 **Case Studies:**
 > "How @developer built a viral email template in 2 hours"
 
-## 🔗 Integration with InboxKit
+## Integration with InboxKit
 
 **Update these pages to mention the community repo:**
 1. Homepage hero section
@@ -205,7 +205,7 @@ Track these to measure success:
 - Templates page: "Contribute a Template" button
 - Footer: "Open Source" section
 
-## 📧 Email Templates
+## Email Templates
 
 **For accepted contributions:**
 ```
