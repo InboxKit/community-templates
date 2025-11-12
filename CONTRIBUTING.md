@@ -1,6 +1,6 @@
 # Contributing to InboxKit Community Templates
 
-Thank you for your interest in contributing to the InboxKit community template library! 🎉
+Thank you for your interest in contributing to the InboxKit community template library!
 
 ## Rewards
 
