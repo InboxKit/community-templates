@@ -2,7 +2,7 @@
 
 Welcome to the InboxKit Community Templates repository! This is an open-source collection of high-quality, production-ready email templates contributed by developers worldwide.
 
-## 🎁 Get Free Lifetime Access
+## Get 50% off InboxKit lifetime access
 
 Submit a template and get **50% off InboxKit lifetime access** when your contribution is accepted, including:
 
