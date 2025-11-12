@@ -51,7 +51,7 @@ Conversion-focused templates for abandoned carts, order confirmations, shipping 
 
 [**→ Read Full Contributing Guide**](CONTRIBUTING.md)
 
-## 📋 Submission Requirements
+## Submission Requirements
 
 Your template must include:
 
