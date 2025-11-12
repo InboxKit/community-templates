@@ -165,7 +165,7 @@ git push origin feature/your-template-name
 - Ensure good contrast ratios (WCAG AA)
 - Test with real content
 
-## 📧 Email Client Testing
+## Email Client Testing
 
 We recommend testing in:
 - **Gmail** (Desktop, iOS, Android)
@@ -188,7 +188,7 @@ We recommend testing in:
 - Follow our contribution guidelines
 - Don't submit low-quality or copied work
 
-## 📝 License
+## License
 
 By submitting a template, you agree to license it under the MIT License, allowing InboxKit and the community to use, modify, and distribute it freely.
 
