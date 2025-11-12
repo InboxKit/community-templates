@@ -2,15 +2,14 @@
 
 Thank you for your interest in contributing to the InboxKit community template library! 🎉
 
-## 🎁 Rewards
+## Rewards
 
-When your template is accepted and merged, you'll receive **free lifetime access** to InboxKit, including:
-- Access to all 100+ premium templates
+When your template is accepted and merged, you'll receive **50% Off lifetime access** to InboxKit, including:
+- Access to all templates and counting
 - AI-powered customization assistant
 - All future templates and updates
-- Priority support
 
-## 📋 Submission Guidelines
+## Submission Guidelines
 
 ### What We're Looking For
 
@@ -37,7 +36,7 @@ When your template is accepted and merged, you'll receive **free lifetime access
 - Templates using deprecated HTML/CSS
 - Templates that aren't mobile-responsive
 
-## 🚀 How to Submit
+## How to Submit
 
 ### 1. Fork the Repository
 
@@ -130,7 +129,7 @@ git push origin feature/your-template-name
 4. Fill out the PR template completely
 5. Wait for review
 
-## ✅ Review Process
+## Review Process
 
 1. **Automated Checks** - We'll run automated tests for HTML validation and accessibility
 2. **Manual Review** - Our team will review your code quality, design, and functionality
@@ -140,7 +139,7 @@ git push origin feature/your-template-name
 
 **Review Time:** Usually 3-7 business days
 
-## 🎨 Design Best Practices
+## Design Best Practices
 
 ### Layout
 - Use tables for layout (email clients require it)
@@ -181,7 +180,7 @@ We recommend testing in:
 - [Mailtrap](https://mailtrap.io/)
 - [Testi@](https://testi.at/)
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 - Be respectful and professional
 - Provide constructive feedback
@@ -195,7 +194,7 @@ By submitting a template, you agree to license it under the MIT License, allowin
 
 You retain copyright to your work and will be credited as the author.
 
-## ❓ Questions?
+## Questions?
 
 - **Email:** support@inboxkit.com
 - **Issues:** Open an issue in this repository
