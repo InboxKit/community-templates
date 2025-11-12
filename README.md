@@ -4,7 +4,7 @@ Welcome to the InboxKit Community Templates repository! This is an open-source c
 
 ## 🎁 Get Free Lifetime Access
 
-Submit a template and get **free lifetime access to InboxKit** when your contribution is accepted, including:
+Submit a template and get **50% off InboxKit lifetime access** when your contribution is accepted, including:
 
 - ✅ Access to all 100+ premium templates
 - ✅ AI-powered customization assistant  
@@ -108,13 +108,17 @@ All templates should be tested in:
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Email Title</title>
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="x-apple-disable-message-reformatting" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Email Subject/Title</title>
+  
   <style type="text/css">
-    /* Responsive styles here */
+    /* Responsive/media query styles here */
   </style>
 </head>
 <body style="margin: 0; padding: 0;">
-  <!-- Content here -->
+  <!-- Email content -->
 </body>
 </html>
 ```
