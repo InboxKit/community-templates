@@ -154,7 +154,7 @@ jobs:
 - [ ] Share success stories
 - [ ] Improve documentation based on feedback
 
-## 📊 Success Metrics
+## Success Metrics
 
 Track these to measure success:
 - GitHub stars
